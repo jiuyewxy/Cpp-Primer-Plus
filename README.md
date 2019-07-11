@@ -1,7 +1,7 @@
 # Cpp-Primer-Plus
 Book 《C++ Primer Plus(version six)》 answers.
 
-* [ ]  ch2
+* [x]  ch2
 * [ ]  ch3
 * [ ]  ch4
 * [ ]  ch5
