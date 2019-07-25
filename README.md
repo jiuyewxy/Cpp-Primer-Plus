@@ -2,7 +2,7 @@
 Book 《C++ Primer Plus(version six)》 answers.
 
 * [x]  ch2
-* [ ]  ch3
+* [x]  ch3
 * [ ]  ch4
 * [ ]  ch5
 * [ ]  ch6
