@@ -7,18 +7,18 @@ g++ 源码.cpp -o 可执行文件名 -std=c++11
 ### 运行结果图
 - 练习1：
 
-![Q1.png](/image/Q1.png)
+![Q1.png](./image/Q1.png)
 
 - 练习2：
 
-![Q2-1.png](/image/Q2-1.png)
+![Q2-1.png](./image/Q2-1.png)
 
 
-![Q2-2.png](/image/Q2-2.png)
+![Q2-2.png](./image/Q2-2.png)
 
 - 练习3：
 
-![Q3.png](/image/Q3.png)
+![Q3.png](./image/Q3.png)
 
 ### 小笔记
 a++意味着使用a当前的值计算表达式，然后将a加1；++a相反
