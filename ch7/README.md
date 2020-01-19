@@ -41,7 +41,7 @@ g++ 源码.cpp -o 可执行文件名 -std=c++11
 
 ![Q9.png](./image/Q9.png)
 
-- 练习9：
+- 练习10：
 
 ![Q10.png](./image/Q10.png)
 
